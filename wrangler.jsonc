@@ -1,1 +1,6 @@
-
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "messenger-ai-bot",
+  "main": "src/index.ts",
+  "compatibility_date": "2026-07-22"
+}
